@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cpp-oop-exercises-part1.cpp">
+    <ClCompile Include="Section6_Challenge_MySolution.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
