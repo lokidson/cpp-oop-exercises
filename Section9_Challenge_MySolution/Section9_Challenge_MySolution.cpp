@@ -101,11 +101,11 @@ int main()
                 printf("Unable to calculate the mean - no data");
             }
             else {
-                double average {0};
-                for (size_t i = 0; i < myIntegerList.size(); i++) {
-                    average += myIntegerList[i];
+                int average {0};
+                for (auto num: myIntegerList) {
+                    average += num;
                 }
-                printf("\nAverage across myIntegerList elements (double): %f\n", average / myIntegerList.size());
+                printf("\nAverage across myIntegerList elements (double): %f\n", static_cast<double>(average) / myIntegerList.size());
             }
         }
         else if (input == "S" || input == "s") {
