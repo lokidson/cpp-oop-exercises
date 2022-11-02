@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_Challenge_MySoluti
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section10_Challenge_MySolution", "Section10_Challenge_MySolution\Section10_Challenge_MySolution.vcxproj", "{C502E295-4A66-44A9-94B2-DD1354F234FF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section11_Challenge_MySolution", "Section11_Challenge_MySolution\Section11_Challenge_MySolution.vcxproj", "{43181001-AC82-43F5-8D80-67887DD95FEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{C502E295-4A66-44A9-94B2-DD1354F234FF}.Release|x64.Build.0 = Release|x64
 		{C502E295-4A66-44A9-94B2-DD1354F234FF}.Release|x86.ActiveCfg = Release|Win32
 		{C502E295-4A66-44A9-94B2-DD1354F234FF}.Release|x86.Build.0 = Release|Win32
+		{43181001-AC82-43F5-8D80-67887DD95FEA}.Debug|x64.ActiveCfg = Debug|x64
+		{43181001-AC82-43F5-8D80-67887DD95FEA}.Debug|x64.Build.0 = Debug|x64
+		{43181001-AC82-43F5-8D80-67887DD95FEA}.Debug|x86.ActiveCfg = Debug|Win32
+		{43181001-AC82-43F5-8D80-67887DD95FEA}.Debug|x86.Build.0 = Debug|Win32
+		{43181001-AC82-43F5-8D80-67887DD95FEA}.Release|x64.ActiveCfg = Release|x64
+		{43181001-AC82-43F5-8D80-67887DD95FEA}.Release|x64.Build.0 = Release|x64
+		{43181001-AC82-43F5-8D80-67887DD95FEA}.Release|x86.ActiveCfg = Release|Win32
+		{43181001-AC82-43F5-8D80-67887DD95FEA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
