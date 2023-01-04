@@ -127,16 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\Documents\3_Personal Documents\Education\UDEMY\Beginning CPP Programming From Beginner to Beyond\304. Source Code for all Sections\Challenge\Description.txt" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Movie.cpp" />
+    <ClCompile Include="Movies.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\3_Personal Documents\Education\UDEMY\Beginning CPP Programming From Beginner to Beyond\304. Source Code for all Sections\Challenge\main.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\3_Personal Documents\Education\UDEMY\Beginning CPP Programming From Beginner to Beyond\304. Source Code for all Sections\Challenge\Movie.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\3_Personal Documents\Education\UDEMY\Beginning CPP Programming From Beginner to Beyond\304. Source Code for all Sections\Challenge\Movies.cpp" />
+    <Text Include="Description.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\3_Personal Documents\Education\UDEMY\Beginning CPP Programming From Beginner to Beyond\304. Source Code for all Sections\Challenge\Movie.h" />
-    <ClInclude Include="..\..\..\..\Documents\3_Personal Documents\Education\UDEMY\Beginning CPP Programming From Beginner to Beyond\304. Source Code for all Sections\Challenge\Movies.h" />
+    <ClInclude Include="Movie.h" />
+    <ClInclude Include="Movies.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

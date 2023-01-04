@@ -15,27 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\3_Personal Documents\Education\UDEMY\Beginning CPP Programming From Beginner to Beyond\304. Source Code for all Sections\Challenge\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\3_Personal Documents\Education\UDEMY\Beginning CPP Programming From Beginner to Beyond\304. Source Code for all Sections\Challenge\Movie.cpp">
+    <ClCompile Include="Movie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\3_Personal Documents\Education\UDEMY\Beginning CPP Programming From Beginner to Beyond\304. Source Code for all Sections\Challenge\Movies.cpp">
+    <ClCompile Include="Movies.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\3_Personal Documents\Education\UDEMY\Beginning CPP Programming From Beginner to Beyond\304. Source Code for all Sections\Challenge\Movie.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\3_Personal Documents\Education\UDEMY\Beginning CPP Programming From Beginner to Beyond\304. Source Code for all Sections\Challenge\Movies.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\..\..\..\Documents\3_Personal Documents\Education\UDEMY\Beginning CPP Programming From Beginner to Beyond\304. Source Code for all Sections\Challenge\Description.txt">
+    <Text Include="Description.txt">
       <Filter>Resource Files</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Movie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Movies.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
